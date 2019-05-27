@@ -12,8 +12,8 @@ fname = [input().lower() for _ in range(q)] # One file name per line.
 for f in fname: # Percorre lista de arquivos
     if '.' in f: # Verifica se arquivo tem extensão
         x = f.split('.')[-1] # Separa extensão
-        if x.lower() in d: # Verifica se extensão está na tabela
-            print(d[x.lower()]) # Retorna MIME Type
+        if x in d: # Verifica se extensão está na tabela
+            print(d[x]) # Retorna MIME Type
         elif x.upper() in d:
             print(d[x.upper()])
         else:
