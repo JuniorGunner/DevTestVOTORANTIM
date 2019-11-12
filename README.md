@@ -1,4 +1,4 @@
-# DevTest - VOTORANTIM Centro de Excelência   
+# DevTest - VOTORANTIM Centro de Excelência SP   
 ## MIME Types   
 
 ### Entendimento do problema:   
@@ -21,5 +21,3 @@ o código funcionou logo no início e não tive maiores problemas.
 
 * Na hora de submeter no site apenas demorei para encontrar o interpretador do
 Python3 (estou mais familiarizado com o Hackerrank rs). Acabei selecionando 'Python', que era a versão 2.7, então meu código não rodava no ambiente do codingame. Após um tempo fuçando nos menus acabei por encontrar o interpretador correto e os testes passaram como eu esperava.   
-
-### The end =]
