@@ -1,5 +1,5 @@
 '''
-Author: Claudemir S. F. Junior
+Author: C. S. F. Junior
 Date: 27/05/2019
 Problem: MIME Types Puzzle - codingame.com
 '''
